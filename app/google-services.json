@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "228668221884",
+    "firebase_url": "https://pick4kickauthtest.firebaseio.com",
+    "project_id": "pick4kickauthtest",
+    "storage_bucket": "pick4kickauthtest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228668221884:android:9e0885dd1d8f7a75",
+        "android_client_info": {
+          "package_name": "dotstar.ritoapi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "228668221884-csc4djjinkjerilmpsaqkp7d7loaujvs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dotstar.ritoapi",
+            "certificate_hash": "BBC89C83A75E698EA31400C39454A3BEEE58C2BD"
+          }
+        },
+        {
+          "client_id": "228668221884-avclnlfu2eta2k458mdl0m86l6oajgqi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyCKencsulzAeadSrvWI5e-thSBOVe1mY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "228668221884-avclnlfu2eta2k458mdl0m86l6oajgqi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
